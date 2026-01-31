@@ -1,0 +1,318 @@
+
+DIV container
+-----------------------------------------------------
+.container
+.container-fluid
+.container-sm | md | lg | xl | xxl
+
+
+
+.row
+.col
+.col-1 to col-12
+.col-sm-* | md-* | lg-* | xl-* | xxl-*
+
+
+
+.offset-*
+.g-0 to g-5      /* gutter */
+.row-cols-1 to row-cols-6
+
+
+
+.h1 to .h6
+.display-1 to display-6
+.lead
+.text-start | center | end
+.text-uppercase | lowercase | capitalize
+.fw-bold | fw-normal | fw-light
+.fs-1 to fs-6
+
+
+TEXT COLOR
+-----------------------------------------------------
+.text-primary
+.text-success
+.text-danger
+.text-warning
+.text-info
+.text-dark
+.text-muted
+.text-white
+
+
+
+BG- COLORS
+-----------------------------------------------------
+.bg-primary
+.bg-success
+.bg-danger
+.bg-warning
+.bg-info
+.bg-dark
+.bg-light
+.bg-white
+.bg-transparent
+
+
+
+MARIGIN
+-----------------------------------------------------
+m-0 to m-5
+mt | mb | ms | me | mx | my
+
+
+
+PADDING
+-----------------------------------------------------
+p-0 to p-5
+pt | pb | ps | pe | px | py
+
+
+FLEX
+-----------------------------------------------------
+d-none
+d-block
+d-inline
+d-inline-block
+d-flex
+d-grid
+
+
+FLEX UTILITIES
+-----------------------------------------------------
+flex-row | flex-column
+justify-content-start | center | end | between | around | evenly
+align-items-start | center | end
+flex-wrap | flex-nowrap
+
+
+
+GRID UTILITIES
+-----------------------------------------------------
+container>row>col
+
+BUTTON
+-----------------------------------------------------
+.btn
+.btn-primary
+.btn-success
+.btn-danger
+.btn-warning
+.btn-info
+.btn-dark
+.btn-light
+.btn-outline-primary
+.btn-sm
+.btn-lg
+
+
+
+FORM
+-----------------------------------------------------
+.form-control
+.form-label
+.form-select
+.form-check
+.form-check-input
+.form-check-label
+.input-group
+
+
+
+
+IMAGES
+-----------------------------------------------------
+.img-fluid
+.img-thumbnail
+.rounded
+.rounded-circle
+
+
+
+TABLES
+-----------------------------------------------------
+.table
+.table-striped
+.table-bordered
+.table-hover
+.table-dark
+.table-responsive
+
+
+
+
+.alert
+.alert-primary
+.alert-success
+.alert-danger
+
+
+
+
+
+
+.badge
+.bg-primary
+.rounded-pill
+
+
+
+
+
+.card
+.card-body
+.card-title
+.card-text
+.card-header
+.card-footer
+
+
+
+
+
+.navbar
+.navbar-expand-lg
+.navbar-dark
+.navbar-light
+.bg-dark
+
+
+
+POSITIONING
+-----------------------------------------------------
+position-relative
+position-absolute
+position-fixed
+top-0
+bottom-0
+start-0
+end-0
+translate-middle
+
+
+
+BORDERS
+-----------------------------------------------------
+.border
+.border-0
+.border-primary
+.rounded
+.rounded-0
+
+
+
+SHADOWS
+-----------------------------------------------------
+.shadow
+.shadow-sm
+.shadow-lg
+
+
+
+
+w-25 | 50 | 75 | 100
+h-25 | 50 | 75 | 100
+
+
+
+
+Modal
+Tooltip
+Popover
+Toast
+Dropdown
+Collapse
+Carousel
+Offcanvas
+
+
+
+<i class="bi bi-alarm"></i>
+
+
+
+
+==========================================================================================
+
+
+col-*
+col-sm-*
+col-md-*
+col-lg-*
+col-xl-*
+col-xxl-*
+
+
+
+<div class="col-12 col-md-6 col-lg-4"></div>
+
+
+d-none
+d-sm-block
+d-md-flex
+d-lg-none
+
+<div class="d-none d-md-block">Visible from md</div>
+
+
+
+m-*, p-*
+mt-*, mb-*, ms-*, me-*
+mx-*, my-*
+
+--------------------------------------------
+m-md-*
+p-md-*
+mt-md-*
+mb-md-*
+ms-md-*
+me-md-*
+mx-md-*
+my-md-*
+px-md-*
+py-md-*
+
+--------------------------------------------
+
+m-sm-2
+p-md-4
+mt-lg-5
+px-xl-3
+
+
+
+d-flex
+flex-sm-row
+flex-md-column
+justify-content-lg-center
+align-items-md-start
+
+
+
+text-start
+text-sm-center
+text-md-end
+
+
+
+float-start
+float-md-end
+float-lg-none
+
+
+
+w-25 w-md-50 w-lg-75
+h-100 h-md-auto
+
+
+
+position-static
+position-md-relative
+position-lg-absolute
+
+
+
+border
+border-sm-0
+border-md
